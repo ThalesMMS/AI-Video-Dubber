@@ -1,0 +1,973 @@
+{
+  "text": " Mr. President and gentlemen of the Convention, If we could first know where we are and whither we are tending, we could better judge what to do and how to do it. We are now far into the fifth year since a policy was initiated with the avowed object and confident promise of putting an end to slavery agitation. Under the operation of that policy, that agitation has not only not ceased, but has constantly augmented. In my opinion, it will not cease until a crisis shall have been reached and passed. A house divided against itself cannot stand. I believe this government cannot endure permanently half-slave and half-free.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "text": " Mr. President and gentlemen of the Convention,",
+      "tokens": [
+        50365,
+        2221,
+        13,
+        3117,
+        293,
+        11669,
+        295,
+        264,
+        26793,
+        11,
+        50518
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " Mr.",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.8888246417045593
+        },
+        {
+          "word": " President",
+          "start": 0.62,
+          "end": 1.0,
+          "probability": 0.9979678988456726
+        },
+        {
+          "word": " and",
+          "start": 1.0,
+          "end": 1.54,
+          "probability": 0.509915292263031
+        },
+        {
+          "word": " gentlemen",
+          "start": 1.54,
+          "end": 2.02,
+          "probability": 0.7298204898834229
+        },
+        {
+          "word": " of",
+          "start": 2.02,
+          "end": 2.34,
+          "probability": 0.9996927976608276
+        },
+        {
+          "word": " the",
+          "start": 2.34,
+          "end": 2.52,
+          "probability": 0.9994950294494629
+        },
+        {
+          "word": " Convention,",
+          "start": 2.52,
+          "end": 2.84,
+          "probability": 0.825101912021637
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.7600000000000002,
+      "end": 7.58,
+      "text": " If we could first know where we are and whither we are tending,",
+      "tokens": [
+        50553,
+        759,
+        321,
+        727,
+        700,
+        458,
+        689,
+        321,
+        366,
+        293,
+        315,
+        1839,
+        321,
+        366,
+        256,
+        2029,
+        11,
+        50749
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " If",
+          "start": 3.5,
+          "end": 3.84,
+          "probability": 0.6728270649909973
+        },
+        {
+          "word": " we",
+          "start": 3.84,
+          "end": 4.0,
+          "probability": 0.9998133778572083
+        },
+        {
+          "word": " could",
+          "start": 4.0,
+          "end": 4.18,
+          "probability": 0.999612033367157
+        },
+        {
+          "word": " first",
+          "start": 4.18,
+          "end": 4.5,
+          "probability": 0.9988754391670227
+        },
+        {
+          "word": " know",
+          "start": 4.5,
+          "end": 4.94,
+          "probability": 0.999514102935791
+        },
+        {
+          "word": " where",
+          "start": 4.94,
+          "end": 5.42,
+          "probability": 0.9991151690483093
+        },
+        {
+          "word": " we",
+          "start": 5.42,
+          "end": 5.62,
+          "probability": 0.9997901320457458
+        },
+        {
+          "word": " are",
+          "start": 5.62,
+          "end": 5.88,
+          "probability": 0.9999388456344604
+        },
+        {
+          "word": " and",
+          "start": 5.88,
+          "end": 6.46,
+          "probability": 0.9817697405815125
+        },
+        {
+          "word": " whither",
+          "start": 6.46,
+          "end": 6.86,
+          "probability": 0.9960412085056305
+        },
+        {
+          "word": " we",
+          "start": 6.86,
+          "end": 7.04,
+          "probability": 0.999457061290741
+        },
+        {
+          "word": " are",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.999915361404419
+        },
+        {
+          "word": " tending,",
+          "start": 7.22,
+          "end": 7.58,
+          "probability": 0.9996117651462555
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.78,
+      "end": 11.42,
+      "text": " we could better judge what to do and how to do it.",
+      "tokens": [
+        50767,
+        321,
+        727,
+        1101,
+        6995,
+        437,
+        281,
+        360,
+        293,
+        577,
+        281,
+        360,
+        309,
+        13,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " we",
+          "start": 7.78,
+          "end": 8.26,
+          "probability": 0.9685701727867126
+        },
+        {
+          "word": " could",
+          "start": 8.26,
+          "end": 8.46,
+          "probability": 0.9995736479759216
+        },
+        {
+          "word": " better",
+          "start": 8.46,
+          "end": 8.72,
+          "probability": 0.9996774196624756
+        },
+        {
+          "word": " judge",
+          "start": 8.72,
+          "end": 9.1,
+          "probability": 0.9996873140335083
+        },
+        {
+          "word": " what",
+          "start": 9.1,
+          "end": 9.52,
+          "probability": 0.9996028542518616
+        },
+        {
+          "word": " to",
+          "start": 9.52,
+          "end": 9.76,
+          "probability": 0.9999099969863892
+        },
+        {
+          "word": " do",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.9998886585235596
+        },
+        {
+          "word": " and",
+          "start": 9.98,
+          "end": 10.42,
+          "probability": 0.980836808681488
+        },
+        {
+          "word": " how",
+          "start": 10.42,
+          "end": 10.74,
+          "probability": 0.9998338222503662
+        },
+        {
+          "word": " to",
+          "start": 10.74,
+          "end": 11.0,
+          "probability": 0.9998854398727417
+        },
+        {
+          "word": " do",
+          "start": 11.0,
+          "end": 11.16,
+          "probability": 0.9999567270278931
+        },
+        {
+          "word": " it.",
+          "start": 11.16,
+          "end": 11.42,
+          "probability": 0.9999619722366333
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.58,
+      "end": 15.7,
+      "text": " We are now far into the fifth year since a policy was initiated",
+      "tokens": [
+        50958,
+        492,
+        366,
+        586,
+        1400,
+        666,
+        264,
+        9266,
+        1064,
+        1670,
+        257,
+        3897,
+        390,
+        28578,
+        51161
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " We",
+          "start": 11.58,
+          "end": 12.12,
+          "probability": 0.9998001456260681
+        },
+        {
+          "word": " are",
+          "start": 12.12,
+          "end": 12.28,
+          "probability": 0.9999144077301025
+        },
+        {
+          "word": " now",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.9994210004806519
+        },
+        {
+          "word": " far",
+          "start": 12.46,
+          "end": 12.88,
+          "probability": 0.9995684027671814
+        },
+        {
+          "word": " into",
+          "start": 12.88,
+          "end": 13.22,
+          "probability": 0.9996471405029297
+        },
+        {
+          "word": " the",
+          "start": 13.22,
+          "end": 13.44,
+          "probability": 0.9999127388000488
+        },
+        {
+          "word": " fifth",
+          "start": 13.44,
+          "end": 13.72,
+          "probability": 0.9986577033996582
+        },
+        {
+          "word": " year",
+          "start": 13.72,
+          "end": 14.1,
+          "probability": 0.9998908042907715
+        },
+        {
+          "word": " since",
+          "start": 14.1,
+          "end": 14.54,
+          "probability": 0.9998664855957031
+        },
+        {
+          "word": " a",
+          "start": 14.54,
+          "end": 14.68,
+          "probability": 0.9928699135780334
+        },
+        {
+          "word": " policy",
+          "start": 14.68,
+          "end": 15.04,
+          "probability": 0.9992603659629822
+        },
+        {
+          "word": " was",
+          "start": 15.04,
+          "end": 15.28,
+          "probability": 0.9999198913574219
+        },
+        {
+          "word": " initiated",
+          "start": 15.28,
+          "end": 15.7,
+          "probability": 0.9997612833976746
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.7,
+      "end": 21.72,
+      "text": " with the avowed object and confident promise of putting an end to slavery agitation.",
+      "tokens": [
+        51161,
+        365,
+        264,
+        1305,
+        24347,
+        2657,
+        293,
+        6679,
+        6228,
+        295,
+        3372,
+        364,
+        917,
+        281,
+        15641,
+        623,
+        4614,
+        13,
+        51462
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " with",
+          "start": 15.7,
+          "end": 16.38,
+          "probability": 0.9927579164505005
+        },
+        {
+          "word": " the",
+          "start": 16.38,
+          "end": 16.5,
+          "probability": 0.9999524354934692
+        },
+        {
+          "word": " avowed",
+          "start": 16.5,
+          "end": 16.96,
+          "probability": 0.9983194172382355
+        },
+        {
+          "word": " object",
+          "start": 16.96,
+          "end": 17.38,
+          "probability": 0.9878876209259033
+        },
+        {
+          "word": " and",
+          "start": 17.38,
+          "end": 17.88,
+          "probability": 0.9994922876358032
+        },
+        {
+          "word": " confident",
+          "start": 17.88,
+          "end": 18.4,
+          "probability": 0.997825562953949
+        },
+        {
+          "word": " promise",
+          "start": 18.4,
+          "end": 18.76,
+          "probability": 0.9995562434196472
+        },
+        {
+          "word": " of",
+          "start": 18.76,
+          "end": 19.44,
+          "probability": 0.9991162419319153
+        },
+        {
+          "word": " putting",
+          "start": 19.44,
+          "end": 19.76,
+          "probability": 0.9982681274414062
+        },
+        {
+          "word": " an",
+          "start": 19.76,
+          "end": 20.0,
+          "probability": 0.9999245405197144
+        },
+        {
+          "word": " end",
+          "start": 20.0,
+          "end": 20.42,
+          "probability": 0.9998444318771362
+        },
+        {
+          "word": " to",
+          "start": 20.42,
+          "end": 20.64,
+          "probability": 0.9999599456787109
+        },
+        {
+          "word": " slavery",
+          "start": 20.64,
+          "end": 20.98,
+          "probability": 0.9989187717437744
+        },
+        {
+          "word": " agitation.",
+          "start": 20.98,
+          "end": 21.72,
+          "probability": 0.9998341500759125
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.62,
+      "end": 27.06,
+      "text": " Under the operation of that policy, that agitation has not only not ceased,",
+      "tokens": [
+        51496,
+        6974,
+        264,
+        6916,
+        295,
+        300,
+        3897,
+        11,
+        300,
+        623,
+        4614,
+        575,
+        406,
+        787,
+        406,
+        49917,
+        11,
+        51729
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " Under",
+          "start": 22.44,
+          "end": 22.78,
+          "probability": 0.9997325539588928
+        },
+        {
+          "word": " the",
+          "start": 22.78,
+          "end": 22.94,
+          "probability": 0.9999721050262451
+        },
+        {
+          "word": " operation",
+          "start": 22.94,
+          "end": 23.38,
+          "probability": 0.9997472167015076
+        },
+        {
+          "word": " of",
+          "start": 23.38,
+          "end": 23.72,
+          "probability": 0.9999679327011108
+        },
+        {
+          "word": " that",
+          "start": 23.72,
+          "end": 23.88,
+          "probability": 0.9998244643211365
+        },
+        {
+          "word": " policy,",
+          "start": 23.88,
+          "end": 24.3,
+          "probability": 0.9999167919158936
+        },
+        {
+          "word": " that",
+          "start": 24.58,
+          "end": 25.02,
+          "probability": 0.9994413256645203
+        },
+        {
+          "word": " agitation",
+          "start": 25.02,
+          "end": 25.52,
+          "probability": 0.9999713897705078
+        },
+        {
+          "word": " has",
+          "start": 25.52,
+          "end": 25.8,
+          "probability": 0.999896764755249
+        },
+        {
+          "word": " not",
+          "start": 25.8,
+          "end": 26.04,
+          "probability": 0.9999493360519409
+        },
+        {
+          "word": " only",
+          "start": 26.04,
+          "end": 26.36,
+          "probability": 0.9998971223831177
+        },
+        {
+          "word": " not",
+          "start": 26.36,
+          "end": 26.7,
+          "probability": 0.9999384880065918
+        },
+        {
+          "word": " ceased,",
+          "start": 26.7,
+          "end": 27.06,
+          "probability": 0.999714195728302
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 27.1,
+      "end": 29.02,
+      "text": " but has constantly augmented.",
+      "tokens": [
+        51729,
+        457,
+        575,
+        6460,
+        36155,
+        13,
+        51827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13710496993291946,
+      "compression_ratio": 1.6507936507936507,
+      "no_speech_prob": 0.011797034181654453,
+      "words": [
+        {
+          "word": " but",
+          "start": 27.1,
+          "end": 27.72,
+          "probability": 0.999963641166687
+        },
+        {
+          "word": " has",
+          "start": 27.72,
+          "end": 27.9,
+          "probability": 0.9999170303344727
+        },
+        {
+          "word": " constantly",
+          "start": 27.9,
+          "end": 28.5,
+          "probability": 0.9995108842849731
+        },
+        {
+          "word": " augmented.",
+          "start": 28.5,
+          "end": 29.02,
+          "probability": 0.9992266893386841
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2902,
+      "start": 29.02,
+      "end": 35.22,
+      "text": " In my opinion, it will not cease until a crisis shall have been reached and passed.",
+      "tokens": [
+        50365,
+        682,
+        452,
+        4800,
+        11,
+        309,
+        486,
+        406,
+        27887,
+        1826,
+        257,
+        5869,
+        4393,
+        362,
+        668,
+        6488,
+        293,
+        4678,
+        13,
+        50689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1220320292881557,
+      "compression_ratio": 1.401360544217687,
+      "no_speech_prob": 0.001822013407945633,
+      "words": [
+        {
+          "word": " In",
+          "start": 29.02,
+          "end": 29.84,
+          "probability": 0.4333082139492035
+        },
+        {
+          "word": " my",
+          "start": 29.84,
+          "end": 30.28,
+          "probability": 0.9981471300125122
+        },
+        {
+          "word": " opinion,",
+          "start": 30.28,
+          "end": 30.76,
+          "probability": 0.9986760020256042
+        },
+        {
+          "word": " it",
+          "start": 30.92,
+          "end": 31.16,
+          "probability": 0.99737548828125
+        },
+        {
+          "word": " will",
+          "start": 31.16,
+          "end": 31.42,
+          "probability": 0.9966086149215698
+        },
+        {
+          "word": " not",
+          "start": 31.42,
+          "end": 31.7,
+          "probability": 0.9996910095214844
+        },
+        {
+          "word": " cease",
+          "start": 31.7,
+          "end": 32.0,
+          "probability": 0.9994475245475769
+        },
+        {
+          "word": " until",
+          "start": 32.0,
+          "end": 32.64,
+          "probability": 0.8076165914535522
+        },
+        {
+          "word": " a",
+          "start": 32.64,
+          "end": 32.84,
+          "probability": 0.9994235038757324
+        },
+        {
+          "word": " crisis",
+          "start": 32.84,
+          "end": 33.24,
+          "probability": 0.9971362352371216
+        },
+        {
+          "word": " shall",
+          "start": 33.24,
+          "end": 33.7,
+          "probability": 0.9993292093276978
+        },
+        {
+          "word": " have",
+          "start": 33.7,
+          "end": 33.96,
+          "probability": 0.999768078327179
+        },
+        {
+          "word": " been",
+          "start": 33.96,
+          "end": 34.16,
+          "probability": 0.999845027923584
+        },
+        {
+          "word": " reached",
+          "start": 34.16,
+          "end": 34.56,
+          "probability": 0.9996850490570068
+        },
+        {
+          "word": " and",
+          "start": 34.56,
+          "end": 34.88,
+          "probability": 0.9965676069259644
+        },
+        {
+          "word": " passed.",
+          "start": 34.88,
+          "end": 35.22,
+          "probability": 0.9951194524765015
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2902,
+      "start": 35.58,
+      "end": 39.1,
+      "text": " A house divided against itself cannot stand.",
+      "tokens": [
+        50712,
+        316,
+        1782,
+        6666,
+        1970,
+        2564,
+        2644,
+        1463,
+        13,
+        50880
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1220320292881557,
+      "compression_ratio": 1.401360544217687,
+      "no_speech_prob": 0.001822013407945633,
+      "words": [
+        {
+          "word": " A",
+          "start": 35.58,
+          "end": 36.04,
+          "probability": 0.997787356376648
+        },
+        {
+          "word": " house",
+          "start": 36.04,
+          "end": 36.42,
+          "probability": 0.970761775970459
+        },
+        {
+          "word": " divided",
+          "start": 36.42,
+          "end": 36.86,
+          "probability": 0.9982985854148865
+        },
+        {
+          "word": " against",
+          "start": 36.86,
+          "end": 37.34,
+          "probability": 0.9995101690292358
+        },
+        {
+          "word": " itself",
+          "start": 37.34,
+          "end": 37.88,
+          "probability": 0.9997765421867371
+        },
+        {
+          "word": " cannot",
+          "start": 37.88,
+          "end": 38.62,
+          "probability": 0.9979181885719299
+        },
+        {
+          "word": " stand.",
+          "start": 38.62,
+          "end": 39.1,
+          "probability": 0.9998692274093628
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2902,
+      "start": 39.42,
+      "end": 45.24,
+      "text": " I believe this government cannot endure permanently half-slave and half-free.",
+      "tokens": [
+        50908,
+        286,
+        1697,
+        341,
+        2463,
+        2644,
+        24732,
+        24042,
+        1922,
+        12,
+        82,
+        27995,
+        293,
+        1922,
+        12,
+        10792,
+        13,
+        51184
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1220320292881557,
+      "compression_ratio": 1.401360544217687,
+      "no_speech_prob": 0.001822013407945633,
+      "words": [
+        {
+          "word": " I",
+          "start": 39.42,
+          "end": 40.08,
+          "probability": 0.9994158744812012
+        },
+        {
+          "word": " believe",
+          "start": 40.08,
+          "end": 40.4,
+          "probability": 0.9998382329940796
+        },
+        {
+          "word": " this",
+          "start": 40.4,
+          "end": 40.7,
+          "probability": 0.9996570348739624
+        },
+        {
+          "word": " government",
+          "start": 40.7,
+          "end": 41.06,
+          "probability": 0.9509504437446594
+        },
+        {
+          "word": " cannot",
+          "start": 41.06,
+          "end": 41.66,
+          "probability": 0.9995144605636597
+        },
+        {
+          "word": " endure",
+          "start": 41.66,
+          "end": 42.14,
+          "probability": 0.9997920393943787
+        },
+        {
+          "word": " permanently",
+          "start": 42.14,
+          "end": 42.76,
+          "probability": 0.9871485829353333
+        },
+        {
+          "word": " half",
+          "start": 42.76,
+          "end": 43.68,
+          "probability": 0.9728865027427673
+        },
+        {
+          "word": "-slave",
+          "start": 43.68,
+          "end": 44.16,
+          "probability": 0.8375178972880045
+        },
+        {
+          "word": " and",
+          "start": 44.16,
+          "end": 44.64,
+          "probability": 0.9995973706245422
+        },
+        {
+          "word": " half",
+          "start": 44.64,
+          "end": 44.98,
+          "probability": 0.9998921155929565
+        },
+        {
+          "word": "-free.",
+          "start": 44.98,
+          "end": 45.24,
+          "probability": 0.9962866902351379
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
