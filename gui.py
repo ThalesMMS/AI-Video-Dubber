@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AI Video Translator — Graphical User Interface.
+"""AI Video Dubber — Graphical User Interface.
 
 A friendly tkinter GUI that wraps the dub_video.sh pipeline so users
 don't need the command line.
@@ -96,7 +96,7 @@ class StepIndicator(tk.Frame):
 class App(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
-        self.title("AI Video Translator")
+        self.title("AI Video Dubber")
         self.configure(bg=BG)
         self.minsize(640, 860)
         self.resizable(True, True)
@@ -115,7 +115,7 @@ class App(tk.Tk):
         header.pack(fill=tk.X, padx=24, pady=(24, 0))
         tk.Label(
             header,
-            text="🌐  AI Video Translator",
+            text="🌐  AI Video Dubber",
             font=(FONT_FAMILY, 22, "bold"),
             fg=FG,
             bg=BG,

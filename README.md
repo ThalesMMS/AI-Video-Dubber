@@ -1,4 +1,4 @@
-# AI Video Translator
+# AI Video Dubber
 
 Automatically dub any video into another language using a fully local pipeline:
 
